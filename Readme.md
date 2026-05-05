@@ -115,6 +115,8 @@ python PerpendicularSplitQA.py
 3. Gamma・DD・DTA・Δθの各`.nrrd`ファイルが保存される
 4. **3D Slicer**で結果を3次元確認
 
+![線量誤差](imgs/test.png)
+
 > 前処理の注意：両TIFFスタックはフレーム数を揃え、空間的な位置合わせを行った上で実行してください。
 
 ---
